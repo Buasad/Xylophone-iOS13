@@ -14,7 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
 
-
+    @IBAction func keyPressed(_ sender: Any) {
+        print("Aalya is luv and is my galb🥰")
+    }
+    
     
 
 }
